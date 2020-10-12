@@ -15,7 +15,7 @@
 		<hibernate.version>5.3.2.Final</hibernate.version>
 		<sql.version>5.1.30</sql.version>
 		<jdk.version>10</jdk.version>
-		<junit.version>3.8.1</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<dbcp.version>2.0</dbcp.version>
 		<servlet.version>3.1.0</servlet.version>
 		<jstl.version>1.2</jstl.version>
